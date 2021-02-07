@@ -1,14 +1,15 @@
 = Finanzordnung von radikal:klima
 
-Beschlossen am 9. August 2020
+Beschlossen am 9. August 2020 +
+Geändert am 23. Januar 2021
 
 == § 1 Zuständigkeit
 
-Die Person im Amt als Schatzmeisterin oder Schatzmeister obliegt die Verwaltung der Finanzen und die Buchführung.
+Der Person im Amt als Schatzmeister:in obliegt die Verwaltung der Finanzen und die Buchführung.
 
 == § 2 Rechenschaftsbericht des Vorstandes
 
-Die Person im Amt als Schatzmeisterin oder Schatzmeister sorgt für die fristgerechte Vorlage des Rechenschaftsberichts gemäß dem fünften Abschnitt des Parteiengesetzes beim Präsidium des Deutschen Bundestages. Unter der Voraussetzung, dass Gebietsuntergliederungen existieren, legt die Person im Amt als jeweilige Schatzmeisterin oder Schatzmeister zu diesem Zweck bis spätestens zum 31. Mai eines jeden Jahres ihren Rechenschaftsbericht vor.
+Die Person im Amt als Schatzmeister:in sorgt für die fristgerechte Vorlage des Rechenschaftsberichts gemäß dem fünften Abschnitt des Parteiengesetzes beim Präsidium des Deutschen Bundestages. Unter der Voraussetzung, dass Gebietsuntergliederungen existieren, legt die Person im Amt als jeweilige Schatzmeister:in zu diesem Zweck bis spätestens zum 31. Mai eines jeden Jahres ihren Rechenschaftsbericht vor.
 
 == § 3 Rechenschaftsbericht der Gebietsuntergliederungen
 
@@ -18,15 +19,22 @@ Gebietsuntergliederungen legen ihren jeweils übergeordneten Gebietsgliederungen
 
 (1):: Der Mitgliedsbeitrag beträgt mindestens 10,00 € pro Monat.
 (2):: Die Mitgliedsbeiträge können monatlich, quartalsweise, halbjährlich oder jährlich gezahlt werden.
-(3):: Personen, die diesen Betrag aus finanziellen Gründen bspw. aufgrund von Arbeitslosigkeit oder Erstausbildung (Schule/Lehre/Studium) nicht leisten können, können einen reduzierten Mitgliedsbeitrag von mindestens 5,00 € pro Monat beantragen. Der Antrag kann formlos beim Vorstand gestellt werden (z. B. per E-Mail). Der Antrag muss die Höhe des gewünschten Mitgliedsbeitrags enthalten. Der reduzierte Mitgliedsbeitrag wird grundsätzlich monatlich abgebucht. Die Reduzierung gilt für 12 Monate und muss dann neu beantragt werden.
+(3):: Personen, die diesen Betrag aus finanziellen Gründen bspw. aufgrund von Arbeitslosigkeit oder Erstausbildung (Schule/Lehre/Studium) nicht leisten können, können einen reduzierten Mitgliedsbeitrag von mindestens 5,00 € pro Monat beantragen. In finanziell besonders schwierigen Situationen (ALG II, Einkommen unterhalb des Existenzminimums) kann der Mitgliedsbeitrag auch ganz erlassen werden. Der Antrag kann formlos beim Vorstand gestellt werden (z.B. per E-Mail). Der Antrag muss die Höhe des gewünschten Mitgliedsbeitrags enthalten. Der reduzierte Mitgliedsbeitrag wird grundsätzlich monatlich abgebucht. Die Reduzierung bzw. die Freistellung von der Zahlungsverpflichtung gilt für 12 Monate und muss dann neu beantragt werden.
 (4):: Bei Eintritt im Laufe eines Jahres ist der anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt monatsgenau, beginnend mit dem Monat, in dem der Eintritt stattfindet.
 (5):: Bereits gezahlte Beiträge werden im Falle eines Parteiaustritts nicht erstattet.
 (6):: Der Mitgliedsbeitrag sind an die Landespartei zu entrichten.
-(7):: Die Schatzmeisterin oder der Schatzmeister erarbeitet Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
+(7):: Die Schatzmeister:in erarbeitet Änderungsvorschläge zur Höhe des Mitgliedsbeitrages.
 
-== § 5 Sonderbeitragsverpflichtung für Abgeordnete
+== § 5 Sonderbeitragsverpflichtung für Verordnete und Abgeordnete
 
-Abgeordnete sind verpflichtet, über den Mitgliedsbeitrag hinaus einen Sonderbeitrag in Höhe von monatlich 15% der Abgeordnetenentschädigung vor Abzug von Steuern und Abgaben zu leisten.
+(1):: Abgeordnete für radikal:klima im Abgeordnetenhaus von Berlin sind verpflichtet, über den Mitgliedsbeitrag hinaus einen Sonderbeitrag in Höhe von monatlich mindestens 100,00 Euro und maximal 15% der Abgeordnetenentschädigung vor Abzug von Steuern und Abgaben zu leisten. Der maximale Sonderbeitrag in Höhe von monatlich 15% der Abgeordnetenentschädigung vor Abzug von Steuern und Abgaben gilt für alle Abgeordneten, sofern Sie nicht nachfolgende Minderungsgründe geltend machen können:
+(a)::: Abgeordnete von radikal:klima mit Kindern unter 18 Jahre sind berechtigt den maximalen Sonderbeitrag um 300,00 Euro für jedes unterhaltsberechtigte Kind unter 18 Jahre zu mindern. Der Mindestbetrag von 100,00 Euro Sonderbeitrag monatlich gilt weiterhin.
+(b)::: Abgeordnete von radikal:klima mit Kindern ab 18 Jahre, die eine allgemeinbildende Schule besuchen, sich in schulischer Ausbildung befinden oder studieren, sind berechtigt den maximalen Sonderbeitrag um 200,00 Euro pro Kind, das diese Bedingungen erfüllt, zu mindern. Schulbesuch und/oder Studium sind durch entsprechende Nachweise der Bildungseinrichtungen zu belegen. Der Mindestbetrag von 100,00 Euro Sonderbeitrag monatlich gilt weiterhin.
+(c)::: Besondere persönliche Umstände (z.B. die Unterstützung pflegebedürftiger Angehöriger, finanzielle Verpflichtungen aus Zeit vor der Abgeordnetentätigkeit u.ä.) können Gründe für individuelle Nachlässe auf den maximalen Sonderbeitrag sein, über die ein dreiköpfiger Entgeltrat entscheidet. Der Entgeltrat wird auf einem Parteitag durch Wahl bestimmt, sobald radikal:klima bei zukünftigen Wahlen Mandate erhält. Sonderbeiträge müssen rückwirkend entrichtet werden.
+(2):: Verordnete von radikal:klima in Berliner Bezirksverordnetenversammlungen sind verpflichtet, über den Mitgliedsbeitrag hinaus einen Sonderbeitrag in Höhe von monatlich mindestens 50,00 Euro und maximal 10% der Verordnetenentschädigung vor Abzug von Steuern und Abgaben zu leisten. Der maximale Sonderbeitrag in Höhe von monatlich 10% der Verordnetenentschädigung vor Abzug von Steuern und Abgaben gilt für alle Verordneten, sofern Sie nicht nachfolgende Minderungsgründe geltend machen können:
+(a)::: Verordnete von radikal:klima mit unterhaltsberechtigten Kindern unter 18 Jahre zahlen lediglich den Mindestbeitrag von 50,00 Euro.
+(b)::: Verordnete von radikal:klima mit Kindern ab 18 Jahre, die eine allgemeinbildende Schule besuchen, sich in schulischer Ausbildung befinden oder studieren zahlen lediglich den Mindestbeitrag von 50,00 Euro. Schulbesuch und/oder Studium sind durch entsprechende Nachweise der Bildungseinrichtungen zu belegen.
+(c)::: Besondere persönliche Umstände (z.B. die Unterstützung pflegebedürftiger Angehöriger, finanzielle Verpflichtungen aus Zeit vor der Abgeordnetentätigkeit u.ä.) können Gründe für individuelle Nachlässe auf den maximalen Sonderbeitrag sein, über die der dreiköpfige Entgeltrat aus §5 Absatz 1 Buchstabe c entscheidet.
 
 == § 6 Aufteilung des Mitgliedsbeitrages auf Landes- und Untergliederungsebene
 
@@ -62,13 +70,13 @@ Hat eine Gebietsuntergliederung unzulässige, nicht im Rechenschaftsbericht ver�
 
 == § 12 Staatliche Teilfinanzierung
 
-(1):: Die Person im Amt als Schatzmeisterin oder Schatzmeister beantragt jährlich zum 31. Januar für die Landesebene und die Gebietsuntergliederungen die Auszahlung der staatlichen Mittel.
-(2):: Über die Verteilung der staatlichen Mittel entscheidet der Landesvorstand in Abstimmung mit den Personen im Amt als Schatzmeisterin oder Schatzmeister in Gebietsuntergliederungen.
+(1):: Die Person im Amt als Schatzmeister:in beantragt jährlich zum 31. Januar für die Landesebene und die Gebietsuntergliederungen die Auszahlung der staatlichen Mittel.
+(2):: Über die Verteilung der staatlichen Mittel entscheidet der Landesvorstand in Abstimmung mit den Personen im Amt als Schatzmeister:in in Gebietsuntergliederungen.
 
 == § 13 Haushaltsplan
 
-(1):: Die Person im Amt als Schatzmeisterin oder Schatzmeister stellt für jedes Kalenderjahr bzw. sofort bei Antritt des Amtes einen Haushaltsplan auf, der vom Vorstand beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht ausreicht, hat die Person im Amt als Schatzmeisterin oder Schatzmeister unverzüglich einen Nachtragshaushalt einzubringen.
-(2):: Die Person im Amt als Schatzmeisterin oder Schatzmeister ist bis zu dessen Verabschiedung an die Grundsätze einer vorläufigen Haushaltsführung gebunden.
+(1):: Die Person im Amt als Schatzmeister:in stellt für jedes Kalenderjahr bzw. sofort bei Antritt des Amtes einen Haushaltsplan auf, der vom Vorstand beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht ausreicht, hat die Person im Amt als Schatzmeister:in unverzüglich einen Nachtragshaushalt einzubringen.
+(2):: Die Person im Amt als Schatzmeister:in ist bis zu dessen Verabschiedung an die Grundsätze einer vorläufigen Haushaltsführung gebunden.
 
 == § 14 Zuordnung des Haushalts
 

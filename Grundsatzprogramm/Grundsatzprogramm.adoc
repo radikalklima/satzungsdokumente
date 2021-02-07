@@ -1,10 +1,11 @@
 = Grundsatzprogramm von radikal:klima
 
-Beschlossen am 9. August 2020
+Beschlossen am 9. August 2020 +
+Geändert am 23. Januar 2021
 
 == Einleitende Erklärung
 
-Die Klimakrise stellt für die Menschheit und weltweiten Ökosysteme die größte Bedrohung im 21. Jahrhundert dar. Führende Klimawissenschaftler:innen warnen uns, dass sich bis 2020 die Erdatmosphäre bereits um 1,2 °C gegenüber dem vorindustriellen Zeitalter erhitzt hat. Deutschland hat sich 2015 im Klimaschutzabkommen von Paris verpflichtet, die Erderhitzung deutlich unter 2 °C, möglichst unter 1,5 °C gegenüber dem vorindustriellen Zeitalter zu halten. Um klimatische Kipppunkte und eine unkontrollierte Erhitzung zu vermeiden, ist konsequentes, sofortiges Handeln notwendig.
+Die Klimakrise stellt für die Menschheit und weltweiten Ökosysteme die größte Bedrohung im 21. Jahrhundert dar. Führende Klimawissenschaftler:innen warnen uns, dass sich bis 2020 die Erdatmosphäre bereits um 1,2°C gegenüber dem vorindustriellen Zeitalter erhitzt hat. Deutschland hat sich 2015 im Klimaschutzabkommen von Paris verpflichtet, die Erderhitzung deutlich unter 2°C, möglichst unter 1,5°C gegenüber dem vorindustriellen Zeitalter zu halten. Um klimatische Kipppunkte und eine unkontrollierte Erhitzung zu vermeiden, ist konsequentes, sofortiges Handeln notwendig.
 
 Berlin hat eine besondere Verantwortung. Als Hauptstadt eines wohlhabenden Landes hat sie eine Vorbildfunktion. Als Stadt des Globalen Nordens zeigt Berlin, dass die notwendigen Klimaschutzmaßnahmen möglich und politisch umsetzbar sind.
 
@@ -16,12 +17,12 @@ Wir sind davon überzeugt, dass nur eine Politik, die entschieden wissenschaftli
 
 Als Partei fühlen wir uns Berlin tief verbunden und erkennen gleichzeitig die globale Tragweite der Klimakrise an. Auf allen politischen Ebenen, national und international, setzen wir uns für nachhaltige, klimapositive Lösungen ein.
 
-Berlin soll deshalb
+Berlin soll deshalb:
 
 * eine klimagerechte, also eine sozial-gerechte und klimapositive Stadt sein.
 * auf wissenschaftliche Erkenntnisse hören -- insbesondere über die Folgen unseres Handelns auf Menschen, Ökosysteme und Klima -- und sofort handeln, um die drohende Klimakatastrophe zu verhindern.
 * Wohlbefinden im Einklang mit natürlichen Grenzen schaffen statt profitorientiertes Wachstum, Überfluss und Verschwendung zu fördern.
-* die Berliner:innen und Kieze bestärken, damit wir diese radikalfortschrittliche Transformation gemeinsam gestalten.
+* die Berliner:innen und Kieze bestärken, damit wir diese radikalfortschrittliche Transformation gemeinsam gestalten und Konflikte gewaltfrei lösen.
 * Vorbild für eine lebenswerte, resiliente und gesunde Hauptstadt werden.
 
 == Ausrichtung an Wohlbefinden und Ökologischem Fußabdruck
@@ -36,7 +37,7 @@ Die Stadt entwickelt partizipativ radikal-fortschrittliche Wohlstandsindikatoren
 
 == Saubere Energie für Berliner:innen
 
-Der gesamte Berliner Energiebedarf deckt sich zu 100% aus Erneuerbaren Energien. Diese werden größtenteils regional in der Metropolregion BerlinBrandenburg gewonnen und gespeichert. Insbesondere über Photovoltaik-Anlagen auf Dächern der Stadt und Windparks im ländlichen Raum.
+Der gesamte Berliner Energiebedarf deckt sich zu 100% aus Erneuerbaren Energien. Diese werden größtenteils regional in der Metropolregion Berlin-Brandenburg gewonnen und gespeichert. Insbesondere über Photovoltaik-Anlagen auf Dächern der Stadt und Windparks im ländlichen Raum.
 
 Fossile Energieträger und Nuklearenergie haben im Berliner Energiesystem keinen Platz mehr. Die Geschwindigkeit der Dekarbonisierung des Systems richtet sich nach dem verbleibenden CO2 Budget für Berlin.
 
@@ -48,7 +49,7 @@ Effizienzsteigerung und ein bewusster Umgang mit Ressourcen und Energie führen 
 
 Alle Bestandsgebäude werden in Berlin warmmietenneutral und ohne Verdrängung energetisch nach höchsten Standards saniert. Wohnräume und Gewerbeflächen sind dauerhaft bezahlbar, da sie die Grundlage städtischen Zusammenlebens bilden. Die Klimabilanz von Neubauten entspricht immer effizienteren Standards, bis sie flächendeckend Null beträgt.
 
-Berlins Einwohnende leben in pflanzenreichen Quartieren, die so gestaltet sind, dass sie gesellschaftlichen Zusammenhalt und Solidarität fördern. Vorausschauende Planung schafft vielerorts Kieze der kurzen Wege, die die Notwendigkeit individueller Mobilität reduzieren.
+Berlins Einwohner:innen leben in pflanzenreichen Quartieren, die so gestaltet sind, dass sie gesellschaftlichen Zusammenhalt und Solidarität fördern. Vorausschauende Planung schafft vielerorts Kieze der kurzen Wege, die die Notwendigkeit individueller Mobilität reduzieren.
 
 Das Stadtbild ist geprägt durch begrünte Gebäude und ausgedehnte Grünflächen, die die Luftqualität verbessern, die Straßen im Sommer kühlen und die Natur zurück in die Stadt holen. Berlins Kinder spielen im Grünen direkt vor dem Haus. Überall in der Stadt gibt es dafür ausreichend Platz, da Flächen dank Mobilitätswende und radikaler Entsiegelung neu genutzt werden können.
 
@@ -56,11 +57,11 @@ In ganz Berlin gibt es städtische und nachbarschaftliche Gärten, die Berliner:
 
 == Gemeinsame Mobilität
 
-Unter Beachtung der Barrierefreiheit im öffentlichen Raum und in den öffentlichen Verkehrsmitteln, richtet Berlin seine Verkehrsplanung prioritär auf Radfahrende und zu Fuß Gehende aus. Als klimafreundlichste Verkehrsteilnehmende erhalten sie den größten innerstädtischen Verkehrsflächenanteil, wodurch ihre Verkehrssicherheit erhöht wird.
+Unter Beachtung der Barrierefreiheit im öffentlichen Raum und in den öffentlichen Verkehrsmitteln, richtet Berlin seine Verkehrsplanung prioritär auf Radfahrer:innen und Fußgänger:innen aus. Als klimafreundlichste Verkehrsteilnehmer:innen erhalten sie den größten innerstädtischen Verkehrsflächenanteil, wodurch ihre Verkehrssicherheit erhöht wird.
 
 Ein wachsender Anteil der Innenstadt wird autofrei gestaltet. Frei werdende Flächen werden für klimafreundliche und soziale Zwecke umgewidmet.
 
-Der Verkehr innerhalb des gesamten Berliner Stadtgebiets ist komplett CO2- frei. Das schließt allen Personen- sowie Lieferverkehr ein.
+Der Verkehr innerhalb des gesamten Berliner Stadtgebiets ist komplett CO2-frei. Das schließt allen Personen- sowie Lieferverkehr ein.
 
 Auch der öffentliche Personennahverkehr (ÖPNV) ist emissionsfrei und für alle Berliner:innen zugänglich. Angebot und Kapazität auf Schiene, Straße und Wasser wachsen kontinuierlich.
 
@@ -78,13 +79,19 @@ Dabei legt Berlin großen Wert auf Klimagerechtigkeit und schützt und unterstü
 
 == Inklusion und Diversität -- Stadt der gelebten Vielfalt
 
-Berlin tritt jeder Form von gesellschaftlicher Diskriminierung entschieden entgegen und fördert Diversität und Vielfalt in allen Lebensbereichen. Auftretende Benachteiligungen von Gruppen oder Einzelpersonen aufgrund von Wertvorstellungen und Vorurteilen werden kritisch in der Öffentlichkeit thematisiert und aktiv entgegengewirkt.
+Berlin tritt jeder Form von Gewalt und gesellschaftlicher Diskriminierung entschieden entgegen und fördert Diversität und Vielfalt in allen Lebensbereichen. Auftretende Benachteiligungen von Gruppen oder Einzelpersonen aufgrund von Wertvorstellungen und Vorurteilen werden kritisch in der Öffentlichkeit thematisiert und aktiv entgegengewirkt.
 
 Auch mit der Verflechtung verschiedener Formen von Diskriminierung basierend auf (zugeschriebener) Herkunft, sexueller Orientierung, Geschlechtsidentität, sozial-wirtschaftlichem Status oder Behinderung wird sich kritisch auseinandergesetzt.
 
 Die Akzeptanz und der Schutz alternativer, freiheitlicher Lebensentwürfe, Chancengleichheit und Inklusion werden in allen Bereichen machtkritisch und diskriminierungssensibel mitgedacht und unterstützt.
 
-Die Gleichberechtigung von Frauen* und die Gleichstellung von LSBTQI* Personen sowie deren Schutz sind ein besonderes Anliegen für die Stadt. Ebenso setzt sich Berlin für Barrierefreiheit und den Schutz älterer Menschen und von Menschen mit Beeinträchtigung ein.
+Die Gleichberechtigung von Frauen* und die Gleichstellung von LSBTQI* Personen sowie deren Schutz sind ein besonderes Anliegen für die Stadt.
+
+Glaubensfreiheit ist im Rahmen säkularer Strukturen abgesichert und religiöse Symbole müssen auf der Straße nicht versteckt werden. Berlin erkennt seine historische Verantwortung an, insbesondere jüdische Gläubige zu schützen.
+
+Ebenso setzt sich Berlin für Barrierefreiheit und den Schutz älterer Menschen und von Menschen mit Beeinträchtigung ein.
+
+Meinungsfreiheit ist in Berlin kein Instrument zügellosen Hasses, sondern kennt seine rechtlichen und empathischen Grenzen. Faschistische Strukturen, Rassismus, Antisemitismus und Hass gegen weitere von Diskriminierung betroffene Gruppen werden in Berlin in gleicher Härte verurteilt wie Extremismus und mit konsequenter Ausschöpfung aller strafrechtlich zulässigen Mittel verfolgt.
 
 == Lernen und Zukunft schaffen
 
@@ -104,9 +111,11 @@ Regierungen, das Parlament und die Verwaltung werden durch unabhängige Wissensc
 
 == Gesund leben und ernähren
 
-Berlin fokussiert sich bei der städtischen Versorgung auf saisonale Lebensmittel aus nachhaltiger, regionaler Landwirtschaft. Durch PermakulturGärten auf Grünflächen, in Schulen, Kindergärten, Krankenhäusern und weiteren öffentlichen Einrichtungen trägt die Stadt zu einer zukunftsfähigen Lebensmittelproduktion bei.
+Berlin fokussiert sich bei der städtischen Versorgung auf saisonale Lebensmittel aus regenerativer, regionaler Landwirtschaft. Durch Permakultur-Gärten auf Grünflächen, in Schulen, Kindergärten, Krankenhäusern und weiteren öffentlichen Einrichtungen trägt die Stadt zu einer zukunftsfähigen Lebensmittelproduktion bei.
 
-Zusätzlich richten die Vorteile pflanzenbasierter Ernährung und die Eindämmung von Lebensmittelverschwendung Berlin auch in diesem Sektor klimapositiv aus.
+Das Bewusstsein der Bevölkerung um die Zusammenhänge zwischen Ernährung, Gesundheit und Klima wird entlang fundierter Ernährungsrichtlinien kontinuierlich erweitert, vertieft und gefestigt. Subventionen werden umgelagert, Umweltbelastungen in die Kosten der Verkaufsprodukte eingepreist und ausschließlich nachhaltige Unternehmen gefördert.
+
+Zusätzlich wird eine pflanzenbasierte Ernährung konsequent genutzt und unterstützt und richtet Berlin somit gemeinsam mit der Eindämmung von Lebensmittelverschwendung auch in diesem Sektor klimapositiv aus.
 
 Die Schadstoffbelastung unserer Umwelt (Luftverschmutzung, Mikroplastik, Wasser- und Bodenqualität) liegt in Berlin unter dem WHO-Standard. Dadurch werden zahlreiche schadstoffbedingte Krankheiten und Todesfälle verhindert.
 

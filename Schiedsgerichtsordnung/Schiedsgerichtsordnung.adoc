@@ -1,6 +1,7 @@
 = Schiedsgerichtsordnung von radikal:klima
 
-Beschlossen am 9. August 2020
+Beschlossen am 9. August 2020 +
+Geändert am 23. Januar 2021
 
 == § 1 Grundlagen
 
@@ -24,7 +25,7 @@ Beschlossen am 9. August 2020
 (2):: Die sich zur Wahl aufstellende Person muss nicht Mitglied der Partei sein.
 (3):: Die in ein Schiedsgericht gewählten Personen können nicht zugleich ein Amt oder Mandat für die Partei oder einen Gebietsverband bekleiden, in einem Dienstverhältnis zu der Partei oder einer Gebietsuntergliederung stehen oder von ihnen regelmäßige Einkünfte beziehen.
 (4):: Schiedsgerichtswahlen finden alle vier Jahre statt. Das Schiedsgericht bleibt bis zur abgeschlossenen Wahl eines neuen Schiedsgerichts im Amt.
-(5):: Eine in ein Schiedsgericht gewählte Person kann durch Erklärung an das Gericht ihr Amt beenden. Scheidet eine in ein Schiedsgericht gewählte Person aus diesem aus, so rückt für diese die in der Rangfolge nächste Ersatzpersonen dauerhaft nach.
+(5):: Eine in ein Schiedsgericht gewählte Person kann durch Erklärung an das Gericht ihr Amt beenden. Scheidet eine in ein Schiedsgericht gewählte Person aus diesem aus, so rückt für diese die in der Rangfolge nächste Ersatzperson dauerhaft nach.
 (6):: Steht beim Ausscheiden einer in ein Schiedsgericht gewählten Person keine Ersatzperson mehr zur Verfügung, so muss die unbesetzte Position durch Nachwahl besetzt werden. Ebenso können Ersatzpersonen nachgewählt werden. Die ursprüngliche Zahl an gewählten Personen im Schiedsgericht und Ersatzpersonen darf dabei jedoch nicht überschritten werden. Nachgewählte Personen schließen sich in der Rangfolge an noch vorhandene Ersatzpersonen an. Nachwahlen gelten nur für den Rest der Amtszeit.
 (7):: Bei tatsächlicher und/sowie angekündigter Nichterreichbarkeit eines Mitglieds des Schiedsgerichts über einen Zeitraum von mindestens zwei Wochen können die Verfahrensbeteiligten und die übrigen Mitglieder des Schiedsgerichts beantragen, das nicht erreichbare Mitglied für abwesend zu erklären. Das Verfahren und die Folgen sind dieselben wie für einen Befangenheitsantrag. Ein wegen Abwesenheit ersetztes Mitglied des Schiedsgerichts bleibt ersetzt, wenn es wieder erreichbar wird. Konnte ein für abwesend erklärtes Mitglied des Schiedsgerichts nicht ersetzt werden, so wird es als Mitglied des Schiedsgerichts wiedereingesetzt, wenn es wieder erreichbar wird.
 (8):: Reduziert sich die Zusammensetzung des Schiedsgerichts in einem Verfahren auf ein einziges Mitglied oder kommt bei einer Abstimmung keine Mehrheit zustande, so erklärt sich das Schiedsgericht in Bezug auf dieses Verfahren für handlungsunfähig und unterrichtet darüber umgehend die Verfahrensbeteiligten.
@@ -43,16 +44,19 @@ Beschlossen am 9. August 2020
 
 == § 6 Zuständigkeit
 
-(1):: Zuständig ist generell das Gericht der niedrigsten Ordnung.
-(2):: Die örtliche Zuständigkeit richtet sich nach der Zugehörigkeit der Gebietsuntergliederung der Person, die sich zum Zeitpunkt der Anrufung gegen eine Maßnahme wehrt.
-(3):: Handelt es sich bei der Person, die sich gegen eine Maßnahme wehrt, um ein Organ des Landesverbandes, so ist ausschließlich das Landesschiedsgericht zuständig.
-(4):: Für Parteiausschlussverfahren und Einsprüche gegen Ordnungsmaßnahmen ist erstinstanzlich das Schiedsgericht der eigenen Gebietsuntergliederung zuständig.
-(5):: Bei Handlungsunfähigkeit oder Nicht-Bestehen des zuständigen Gerichts verweist das nächsthöhere Gericht den Fall an ein anderes, der Eingangsinstanz gleichrangiges, Schiedsgericht oder kann den Fall selbst behandeln.
+(1):: Die örtliche Zuständigkeit richtet sich nach der Zugehörigkeit der Gebietsuntergliederung der Person, die sich zum Zeitpunkt der Anrufung gegen eine Maßnahme wehrt.
+(2):: Bei Gründung von Gebietsuntergliederungen sind grundsätzlich die Schiedsgerichte der Gebietsuntergliederung als Gerichte niedrigster Ordnung sachlich zuständig.
+(3):: Abweichend dazu besteht eine ausschließliche sachliche Zuständigkeit des Landesschiedsgericht für Entscheidungen über:
+(a)::: Streitigkeiten, bei denen sich die antragstellende Person gegen eine Maßnahme eines Organs des Landesverbandes wehrt,
+(b)::: Streitigkeiten zwischen der Landesebene der Partei und ihren Gebietsuntergliederungen oder zwischen Gebietsuntergliederungen innerhalb des Landesverbandes,
+(c)::: die Anfechtung von Wahlen gemäß § 17 der Wahlordnung,
+(d)::: Streitigkeiten über die Auslegung und Anwendung von streitentscheidendem Satzungsrecht innerhalb eines laufenden Verfahrens.
+(4):: Erklärt sich das Schiedsgericht einer Gebietsuntergliederung für handlungsunfähig gem. § 3 VIII oder rechtfertigen Tatsachen die Annahme, dass es faktisch handlungsunfähig ist, verweist das Landesschiedsgericht den Fall an ein anderes, der Eingangsinstanz gleichrangiges Schiedsgericht. Ist dies nicht möglich und der Rechtsschutz eines Mitglieds der Gebietsuntergliederung dadurch gefährdet, so kann das Landesschiedsgericht den Fall selbst behandeln.
 
 == § 7 Anträge
 
 (1):: Antragsberechtigt ist jedes Parteimitglied, sofern es in der Sache unmittelbar betroffen ist, alle Parteiorgane sowie 1/10 der stimmberechtigten Teilnehmenden einer Versammlung, sofern eine Wahl oder Entscheidung der Versammlung angefochten wird. Anträge auf Parteiausschlussverfahren können nur von Gebietsorganen gestellt werden.
-(2):: Jeder Antrag bedarf der Schriftform und muss begründet werden.
+(2):: Jeder Antrag bedarf der Schriftform und muss begründet werden. Die Schriftform wird auch durch elektronische Benachrichtigung an die E-Mail Adresse des Schiedsgerichts gewahrt. Der Antrag muss eine zustellungsfähige Postanschrift enthalten.
 (3):: Die Anrufung des Schiedsgerichts muss binnen zwei Monaten nach Bekanntwerden der Rechtsverletzung erfolgen. Ein Einspruch gegen eine Ordnungsmaßnahme muss spätestens am 14. Tag nach Mitteilung des Beschlusses erhoben werden. Ein Antrag auf Parteiausschluss soll in einem angemessenen Zeitraum seit Bekanntwerden des entscheidenden Vorfalls gestellt werden. Wird ein Schlichtungsversuch durchgeführt, so wird der Ablauf der Frist für die Dauer des Schlichtungsversuchs gehemmt.
 
 == § 8 Schlichtung
@@ -70,23 +74,26 @@ Beschlossen am 9. August 2020
 == § 10 Verfahren
 
 (1):: Grundsätzlich fällt das Gericht seine Entscheidungen im mündlichen Verfahren. Nur in Ausnahmefällen kann das Gericht eine schriftliche oder fernmündliche Anhörung anordnen, wenn es zur rechtlichen und tatsächlichen Klärung geboten scheint.
-(2):: Den Entscheidungen darf nur zugrunde gelegt werden, was allen Verfahrensbeteiligten bekannt ist und wozu sie Stellung nehmen konnten.
-(3):: Bei mündlichen und fernmündlichen Entscheidungen bestimmt das Schiedsgericht Ort und Zeit der Verhandlung.
-(4):: Alle Parteimitglieder können dem Verfahren beiwohnen. Die Termine dafür werden rechtzeitig bekannt gegeben.
+(2):: Kommt ein Schiedsgericht einer Gebietsuntergliederung während eines laufenden Verfahrens zu dem Ergebnis, dass streitentscheidendes Satzungsrecht unvereinbar mit sonstigem Satzungsrecht oder geltendem Recht und Gesetz ist, muss dieses Schiedsgericht die Frage dem Landesschiedsgericht zur Auslegung vorlegen. Kommt das Landesschiedsgericht zu dem Ergebnis, dass das streitentscheidende Satzungsrecht unanwendbar ist, muss beim Vorstand erwirkt werden, dass ein entsprechender Antrag auf die Tagesordnung des Landesparteitags gesetzt wird, damit der Landesparteitag über die streitentscheidende Norm befinden kann. Bis zur Entscheidung des Landesparteitags bezüglich der Gültigkeit und Anwendbarkeit des anzuwendenden Satzungsrechts wird das Schiedsgerichtsverfahren ausgesetzt.
+(3):: Den Entscheidungen darf nur zugrunde gelegt werden, was allen Verfahrensbeteiligten bekannt ist und wozu sie Stellung nehmen konnten.
+(4):: Bei mündlichen und fernmündlichen Entscheidungen bestimmt das Schiedsgericht Ort und Zeit der Verhandlung.
+(5):: Alle Parteimitglieder können dem Verfahren beiwohnen. Die Termine dafür werden rechtzeitig bekannt gegeben.
+(6):: Die Verfahrensbeteiligten können die Prozessakten einsehen. Dritten Personen kann das Schiedsgericht ohne Einwilligung der beteiligten Parteien nur dann Akteneinsicht gestatten, wenn ein rechtliches Interesse glaubhaft gemacht wird. Akten können bei Einsichtnahme Dritter anonymisiert werden.
 
-== § 11 Einstweilige Verfügung
+== § 11 Einstweilige Anordnung
 
 (1):: Das Schiedsgericht kann auf Antrag eine einstweilige Anordnung in Bezug auf den Verfahrensgegenstand erlassen. Ausgenommen sind Parteiausschlussverfahren.
-(2):: Die Anordnung ergeht nach einer Anhörung und in dringenden Fällen allein durch die vorsitzende Person im Schiedsgericht.
-(3):: Gegen eine solche Entscheidung kann die betroffene Person binnen zwei Wochen nach Zustellung der Anordnung Rechtsmittel einlegen. Die betroffene Person ist in dem Beschluss über diese Möglichkeit zu belehren.
+(2):: Die Anordnung ergeht nach einer Anhörung im gesamten Spruchkörper, in dringenden Fällen nach einer Anhörung durch die vorsitzende Person allein.
+(3):: Gegen eine solche Entscheidung kann die betroffene Person binnen zwei Wochen nach Zustellung der Anordnung Beschwerde einlegen. Die betroffene Person ist in dem Beschluss über dieses Rechtsmittel zu belehren.
 
 == § 12 Urteil
 
-(1):: Das Urteil enthält eine Sachverhaltsdarstellung und eine Begründung mit Würdigung der Sach- und Rechtslage. Die Urteilsfindung unterliegt dem Beschleunigungsgrundsatz. Entschieden wird in nicht-öffentlicher Beratung des Schiedsgerichts, das Urteil wird mit einfacher Mehrheit gefällt. Enthaltungen sind nicht zulässig. Das Abstimmungsverhalten der in das Schiedsgericht gewählten Personen wird nicht festgehalten.
-(2):: Ist gegen das Urteil Berufung möglich, so ist diesem eine Rechtsbehelfsbelehrung beizufügen.
-(3):: Die Verfahrensbeteiligten erhalten eine Ausfertigung des Urteils in Textform.
-(4):: Das Schiedsgericht bewahrt eine schriftliche, von allen beteiligten in das Schiedsgericht gewählten Personen unterschriebene Ausfertigung des Urteils auf.
-(5):: Alle Beschlüsse der Schiedsgerichtskommission sind in anonymisierter Form auf der Homepage der Partei zu veröffentlichen.
+(1):: Das Verfahren wird grundsätzlich durch Urteil abgeschlossen. Es kann auch durch Rücknahme des Antrags, Erledigung oder Vergleich beendet werden.
+(2):: Das Urteil enthält eine Sachverhaltsdarstellung und eine Begründung mit Würdigung der Sach- und Rechtslage. Die Urteilsfindung unterliegt dem Beschleunigungsgrundsatz. Entschieden wird in nicht-öffentlicher Beratung des Schiedsgerichts, das Urteil wird mit einfacher Mehrheit gefällt. Enthaltungen sind nicht zulässig. Das Abstimmungsverhalten der in das Schiedsgericht gewählten Personen wird nicht festgehalten.
+(3):: Ist gegen das Urteil Berufung möglich, so ist diesem eine Rechtsbehelfsbelehrung beizufügen.
+(4):: Die Verfahrensbeteiligten erhalten eine Ausfertigung des Urteils in Textform.
+(5):: Das Schiedsgericht bewahrt eine schriftliche, von allen beteiligten in das Schiedsgericht gewählten Personen unterschriebene Ausfertigung des Urteils auf.
+(6):: Alle Beschlüsse der Schiedsgerichtskommission sind in anonymisierter Form auf der Homepage der Partei zu veröffentlichen.
 
 == § 13 Berufung
 
@@ -95,8 +102,8 @@ Beschlossen am 9. August 2020
 
 == § 14 Kosten
 
-(1):: Das Schiedsgerichtsverfahren ist kostenfrei. Jede am Verfahren beteiligte Person trägt ihre eigenen Auslagen für die Führung des Verfahrens selbst.
-(2):: In das Schiedsgericht gewählte Personen erhalten für ihre Tätigkeit keine Entschädigung. Die notwendigen Auslagen, insbesondere Reisekosten, trägt die jeweilige Ebene der Partei.
+(1):: Grundsätzlich tragen die an dem Verfahren beteiligten Personen ihre Auslagen zur Führung des Verfahrens selbst. In besonders gebotenen Ausnahmefällen, insbesondere bei evident rechtsmissbräuchlichem Verhalten und unverhältnismäßiger Kostenlast, kann das Schiedsgericht jedoch eine Kostenentscheidung entsprechend § 91 Abs. 1 ZPO treffen.
+(2):: In das Schiedsgericht gewählte Personen erhalten für ihre Tätigkeit keine Entschädigung. Die notwendigen Auslagen, insbesondere Reisekosten, trägt die jeweilige Gliederung der Partei.
 
 == § 15 Schlussbestimmungen
 
