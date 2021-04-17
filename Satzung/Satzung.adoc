@@ -1,7 +1,8 @@
-= Satzung von radikal:klima
+= Satzung der Klimaliste Berlin
 
 Beschlossen am 9. August 2020 +
-Geändert am 23. Januar 2021
+Geändert am 23. Januar 2021 +
+Geändert am 27. März 2021
 
 == Präambel
 
@@ -9,21 +10,21 @@ Unsere Vision ist ein klimapositives und sozial-gerechtes Berlin, das unsere st�
 
 == § 1 Name, Sitz und Tätigkeit
 
-(1):: Die Partei trägt den Namen radikal:klima und die Kurzbezeichnung radikal:klima.
+(1):: Die Partei trägt den Namen Klimaliste Berlin und die Kurzbezeichnung Klimaliste Berlin.
 (2):: Der Sitz der Partei ist Berlin.
 (3):: Das Tätigkeitsgebiet der Partei ist das Land Berlin.
-(4):: Gebietsuntergliederungen tragen den Namen radikal:klima mit dem Zusatz des jeweiligen Gebietsnamens.
+(4):: Gebietsuntergliederungen tragen den Namen Klimaliste Berlin mit dem Zusatz des jeweiligen Gebietsnamens.
 
 == § 2 Aufnahme und Austritt der Mitglieder
 
 === Voraussetzungen für die Mitgliedschaft
 
-(1):: Mitglied von radikal:klima können alle deutschen Staatsangehörigen und jede Person mit Wohnsitz oder Geburtsort in Deutschland werden. Es gibt kein Mindesteintrittsalter für die Mitgliedschaft. Mitglieder von radikal:klima müssen die Satzung und das Programm der Partei sowie die Gesetze und freiheitliche demokratische Grundordnung in Deutschland anerkennen. Mitglied von radikal:klima können nur natürliche Personen sein.
+(1):: Mitglied der Klimaliste Berlin können alle deutschen Staatsangehörigen und jede Person mit Wohnsitz oder Geburtsort in Deutschland werden. Es gibt kein Mindesteintrittsalter für die Mitgliedschaft. Mitglieder der Klimaliste Berlin müssen die Satzung und das Programm der Partei sowie die Gesetze und freiheitliche demokratische Grundordnung in Deutschland anerkennen. Mitglied der Klimaliste Berlin können nur natürliche Personen sein.
 (2):: Es wird ein zentrales Mitgliederverzeichnis durch den Parteivorstand geführt.
-(3):: Personen, die sich um die Mitgliedschaft bei radikal:klima bewerben, ist es nicht gestattet Mitglied einer anderen Partei zu sein. Der Vorstand von radikal:klima kann Ausnahmen von dieser Regel unter Angabe einer klaren Begründung gewähren.
-(4):: Personen, die Mitglied einer Organisation sind, die sich gegen die Grundsätze der Partei, gegen die Menschenrechte oder gegen eine demokratische, pluralistische Gesellschaft richtet oder Ziele verfolgt, die gegen diese Grundsätze verstoßen, können nicht Mitglied bei radikal:klima werden. Wenn Mitglieder nach ihrem Eintreten in die Partei einer dieser Organisationen beitreten oder eine bestehende Mitgliedschaft in einer dieser Organisationen nachträglich bekannt wird, ist dies ein zwingender Ausschlussgrund. Es gilt die https://www.radikalklima.de/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie].
-(5):: Der Gründungs- und Landesparteitag kann eine https://www.radikalklima.de/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie] beschließen, die Näheres regelt und eine Liste mit Organisationen enthält, die als unvereinbar gelten. Der Parteivorstand kann dieser Liste per Beschluss weitere Organisationen hinzufügen und dies durch den folgenden Landesparteitag oder eine Urabstimmung bestätigen lassen.
-(6):: Personen, die infolge Richterspruchs die Amtsfähigkeit, die Wählbarkeit oder das Wahlrecht nicht besitzen, können nicht Mitglied von radikal:klima sein bzw. bleiben.
+(3):: Personen, die sich um die Mitgliedschaft bei der Klimaliste Berlin bewerben, ist es nicht gestattet Mitglied einer anderen Partei zu sein. Der Vorstand der Klimaliste Berlin kann Ausnahmen von dieser Regel unter Angabe einer klaren Begründung gewähren.
+(4):: Personen, die Mitglied einer Organisation sind, die sich gegen die Grundsätze der Partei, gegen die Menschenrechte oder gegen eine demokratische, pluralistische Gesellschaft richtet oder Ziele verfolgt, die gegen diese Grundsätze verstoßen, können nicht Mitglied bei der Klimaliste Berlin werden. Wenn Mitglieder nach ihrem Eintreten in die Partei einer dieser Organisationen beitreten oder eine bestehende Mitgliedschaft in einer dieser Organisationen nachträglich bekannt wird, ist dies ein zwingender Ausschlussgrund. Es gilt die https://www.klimaliste-berlin.de/satzungsdokumente/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie].
+(5):: Der Gründungs- und Landesparteitag kann eine https://www.klimaliste-berlin.de/satzungsdokumente/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie] beschließen, die Näheres regelt und eine Liste mit Organisationen enthält, die als unvereinbar gelten. Der Parteivorstand kann dieser Liste per Beschluss weitere Organisationen hinzufügen und dies durch den folgenden Landesparteitag oder eine Urabstimmung bestätigen lassen.
+(6):: Personen, die infolge Richterspruchs die Amtsfähigkeit, die Wählbarkeit oder das Wahlrecht nicht besitzen, können nicht Mitglied der Klimaliste Berlin sein bzw. bleiben.
 
 === Aufnahmeverfahren
 
@@ -34,12 +35,12 @@ Unsere Vision ist ein klimapositives und sozial-gerechtes Berlin, das unsere st�
 
 == § 3 Fördermitgliedschaft
 
-(1):: Personen, denen es wichtig ist, radikal:klima auch ohne aktive Mitgliedschaft zu unterstützen, haben die Möglichkeit, eine Fördermitgliedschaft zu beantragen.
-(2):: Fördermitglieder von radikal:klima können alle europäischen Unionsbürger:innen und jede Person mit Wohnsitz oder Geburtsort in Deutschland werden. Personen aus dem Nicht- EU Ausland können auch Fördermitglieder werden, aber nur bis zu einem Höchstbetrag von 1.000 EUR pro Jahr. Jede Person muss das 18. Lebensjahr vollendet haben und Satzung und Programm der Partei sowie die Gesetze und die freiheitliche Grundordnung Deutschlands anerkennen. Fördermitglieder von radikal:klima können nur natürliche Personen sein.
-(3):: Personen, die eine Fördermitgliedschaft bei radikal:klima beantragen, ist es gestattet Mitglied einer anderen Partei zu sein.
-(4):: Personen, die Mitglied einer Organisation sind, die sich gegen die Grundsätze der Partei, gegen die Menschenrechte oder gegen eine demokratische, pluralistische Gesellschaft richtet oder Ziele verfolgt, welche gegen die Grundsätze verstoßen, können nicht Fördermitglied bei radikal:klima werden. Wenn Fördermitglieder nach ihrem Eintreten in die Partei einer dieser Organisationen beitreten oder eine bestehende Mitgliedschaft in einer dieser Organisationen nachträglich bekannt wird, ist dies ein zwingender Ausschlussgrund. Es gilt die https://www.radikalklima.de/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie].
+(1):: Personen, denen es wichtig ist, Klimaliste Berlin auch ohne aktive Mitgliedschaft zu unterstützen, haben die Möglichkeit, eine Fördermitgliedschaft zu beantragen.
+(2):: Fördermitglieder der Klimaliste Berlin können alle europäischen Unionsbürger:innen und jede Person mit Wohnsitz oder Geburtsort in Deutschland werden. Personen aus dem Nicht- EU Ausland können auch Fördermitglieder werden, aber nur bis zu einem Höchstbetrag von 1.000 EUR pro Jahr. Jede Person muss das 18. Lebensjahr vollendet haben und Satzung und Programm der Partei sowie die Gesetze und die freiheitliche Grundordnung Deutschlands anerkennen. Fördermitglieder der Klimaliste Berlin können nur natürliche Personen sein.
+(3):: Personen, die eine Fördermitgliedschaft bei der Klimaliste Berlin beantragen, ist es gestattet Mitglied einer anderen Partei zu sein.
+(4):: Personen, die Mitglied einer Organisation sind, die sich gegen die Grundsätze der Partei, gegen die Menschenrechte oder gegen eine demokratische, pluralistische Gesellschaft richtet oder Ziele verfolgt, welche gegen die Grundsätze verstoßen, können nicht Fördermitglied bei der Klimaliste Berlin werden. Wenn Fördermitglieder nach ihrem Eintreten in die Partei einer dieser Organisationen beitreten oder eine bestehende Mitgliedschaft in einer dieser Organisationen nachträglich bekannt wird, ist dies ein zwingender Ausschlussgrund. Es gilt die https://www.klimaliste-berlin.de/satzungsdokumente/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie].
 (5):: Die Fördermitgliedschaft wird beim Parteivorstand beantragt. Der Aufnahmeantrag ist in elektronischer oder schriftlicher Form zu stellen. Über die Aufnahme entscheidet der Parteivorstand innerhalb von sechs Wochen nach bestätigtem Eingang des Aufnahmeantrags. Im Falle möglicher Verzögerungen, ist die Person, die eine Fördermitgliedschaft beantragt hat, schriftlich zu unterrichten. Eine Ablehnung muss nicht begründet werden. Im Fördermitgliedsantrag muss vollständige Auskunft über aktuelle und frühere Mitgliedschaften in Parteien und sonstigen politischen Gruppierungen gegeben werden.
-(6):: Der Fördermitgliedsbeitrag orientiert sich an einem Richtwert von 100,00 € pro Monat. Es gelten die Regelungen aus § 4 der https://www.radikalklima.de/finanzordnung[Finanzordnung]. Ein reduzierter Fördermitgliedschaftsbeitrag entsprechend § 4 Absatz 3 https://www.radikalklima.de/finanzordnung[Finanzordnung] ist nicht möglich.
+(6):: Der Fördermitgliedsbeitrag orientiert sich an einem Richtwert von 100,00 € pro Monat. Es gelten die Regelungen aus § 4 der https://www.klimaliste-berlin.de/satzungsdokumente/finanzordnung[Finanzordnung]. Ein reduzierter Fördermitgliedschaftsbeitrag entsprechend § 4 Absatz 3 https://www.radikalklima.de/satzungsdokumente/finanzordnung[Finanzordnung] ist nicht möglich.
 (7):: Ein Fördermitgliedschaftsbeitrag ist regelmäßig auch in materieller form oder in Form einer Dienstleistung zulässig.
 (8):: Fördermitgliedschaftsbeiträge fallen unter die Aufsicht der Spendenkommission.
 (9):: Fördermitglieder werden zu allen offiziellen Veranstaltungen eingeladen und erhalten bis auf eigenen Widerruf den monatlichen Newsletter.
@@ -49,14 +50,14 @@ Unsere Vision ist ein klimapositives und sozial-gerechtes Berlin, das unsere st�
 
 == § 4 Rechte und Pflichten der Mitglieder
 
-(1):: Jedes Mitglied hat das Recht, nach Maßgabe des Gesetzes und im Rahmen dieser Satzung die Zwecke von radikal:klima zu fördern, sich an der politischen Arbeit zu beteiligen und an Veranstaltungen teilzunehmen. Die Mitglieder sind zur Mitarbeit in der Partei aufgerufen. Im Rahmen dieser Mitarbeit haben Mitglieder das Recht an der politischen Willensbildung der Partei durch Aussprachen, eigene Sachanträge, Abstimmungen und Wahlen mitzuwirken.
-(2):: Jedes Mitglied hat das Recht, sich an der Erstellung des Programms zu beteiligen und im Rahmen der Gesetze und der Wahlordnung von radikal:klima an der Aufstellung von Wahlvorschlägen und Listen zu beteiligen und/oder selbst dafür zu kandidieren.
+(1):: Jedes Mitglied hat das Recht, nach Maßgabe des Gesetzes und im Rahmen dieser Satzung die Zwecke der Klimaliste Berlin zu fördern, sich an der politischen Arbeit zu beteiligen und an Veranstaltungen teilzunehmen. Die Mitglieder sind zur Mitarbeit in der Partei aufgerufen. Im Rahmen dieser Mitarbeit haben Mitglieder das Recht an der politischen Willensbildung der Partei durch Aussprachen, eigene Sachanträge, Abstimmungen und Wahlen mitzuwirken.
+(2):: Jedes Mitglied hat das Recht, sich an der Erstellung des Programms zu beteiligen und im Rahmen der Gesetze und der Wahlordnung der Klimaliste Berlin an der Aufstellung von Wahlvorschlägen und Listen zu beteiligen und/oder selbst dafür zu kandidieren.
 (3):: Jedes Mitglied hat das Recht, an Treffen von Arbeitsgruppen teilzunehmen und auch Teil derer zu werden. Die Arbeitsgruppen geben sich eine gemeinsame Geschäftsordnung, die den Rahmen der Zusammenarbeit bestimmt.
-(4):: Jedes Mitglied hat die Pflicht, das gemeinsame Grundsatzprogramm anzuerkennen und zu vertreten sowie gemeinsam beschlossene Wahlprogramme und gemeinsam beschlossene Gesetzentwürfe von radikal:klima anzuerkennen und den satzungsgemäßen Mitgliedsbeitrag, welcher in der Finanzordnung geregelt wird, pünktlich zu entrichten.
+(4):: Jedes Mitglied hat die Pflicht, das gemeinsame Grundsatzprogramm anzuerkennen und zu vertreten sowie gemeinsam beschlossene Wahlprogramme und gemeinsam beschlossene Gesetzentwürfe der Klimaliste Berlin anzuerkennen und den satzungsgemäßen Mitgliedsbeitrag, welcher in der Finanzordnung geregelt wird, pünktlich zu entrichten.
 
 == § 5 Zulässige Ordnungsmaßnahmen gegen Mitglieder und ihr Ausschluss
 
-(1):: Wenn ein Mitglied gegen die Satzung oder gegen die Grundsätze von radikal:klima verstößt oder dem Ansehen der Partei schadet, aber ein Ausschluss noch nicht in Betracht kommt, kann der Parteivorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden und das Ruhen der Mitgliedsrechte für einen begrenzten Zeitraum, der 2 Jahre nicht übersteigen darf.
+(1):: Wenn ein Mitglied gegen die Satzung oder gegen die Grundsätze der Klimaliste Berlin verstößt oder dem Ansehen der Partei schadet, aber ein Ausschluss noch nicht in Betracht kommt, kann der Parteivorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden und das Ruhen der Mitgliedsrechte für einen begrenzten Zeitraum, der 2 Jahre nicht übersteigen darf.
 (2):: Unter der Voraussetzung, dass Gebietsuntergliederungen existieren, werden die Verstöße durch den entsprechenden Vorstand geahndet.
 (3):: Ein Mitglied kann nur dann aus der Partei ausgeschlossen werden, wenn es vorsätzlich gegen die Satzung der Partei oder erheblich gegen deren Grundsätze oder Ordnungen verstößt und ihr damit schweren Schaden zufügt.
 (4):: Parteischädigendes Verhalten +
@@ -77,24 +78,24 @@ Parteischädigend verhält sich insbesondere, wer
 == § 6 Zulässige Ordnungsmaßnahmen gegen Gebietsverbände
 
 (1):: Folgende Absätze gelten unter der Voraussetzung, dass Gebietsuntergliederungen existieren.
-(2):: Verstoßen Gebietsuntergliederungen schwerwiegend gegen die Satzung, die Grundsätze oder die Ordnung von radikal:klima, oder weigert sich begründete Beschwerden aufzugreifen und an ein Schiedsgericht heranzutragen, sind folgende Ordnungsmaßnahmen gegen Gebietsuntergliederungen möglich: Auflösung, Ausschluss, Amtsenthebung von Teilen oder des ganzen Vorstandes nachgeordneter Gebietsverbände.
+(2):: Verstoßen Gebietsuntergliederungen schwerwiegend gegen die Satzung, die Grundsätze oder die Ordnung der Klimaliste Berlin, oder weigert sich begründete Beschwerden aufzugreifen und an ein Schiedsgericht heranzutragen, sind folgende Ordnungsmaßnahmen gegen Gebietsuntergliederungen möglich: Auflösung, Ausschluss, Amtsenthebung von Teilen oder des ganzen Vorstandes nachgeordneter Gebietsverbände.
 (3):: Als schwerwiegender Verstoß gegen die Ordnung und die Grundsätze der Partei ist es zu werten, wenn Gebietsuntergliederungen die Bestimmungen der Satzung fortdauernd missachten, Beschlüsse übergeordneter Parteiorgane nicht durchführen oder in wesentlichen Fragen gegen die politische Zielsetzung der Partei handeln.
 (4):: Die Ordnungsmaßnahmen werden vom Vorstand der jeweils höheren Gebietsuntergliederungen getroffen. Dessen Mitgliederversammlung hat die Ordnungsmaßnahme am nächsten Parteitag mit einfacher Mehrheit zu bestätigen, ansonsten tritt die Maßnahme außer Kraft. Gegen die Ordnungsmaßnahme ist die Anrufung des nach der Schiedsgerichtsordnung zuständigen Schiedsgerichts möglich.
 
-== § 7 Die allgemeine Gliederung von radikal:klima
+== § 7 Die allgemeine Gliederung der Klimaliste Berlin
 
-(1):: radikal:klima versteht sich als innerhalb Berlins landesweit einheitlich organisierte Partei. Zusätzlich zum Landesverband ist die Gründung von Gebietsuntergliederungen möglich.
+(1):: Klimaliste Berlin versteht sich als innerhalb Berlins landesweit einheitlich organisierte Partei. Zusätzlich zum Landesverband ist die Gründung von Gebietsuntergliederungen möglich.
 (2):: Gebietsuntergliederungen können nach ihren örtlichen Bedürfnissen die Aufteilung in Bezirks- und Ortsverbände vornehmen.
 (3):: Innerhalb der staatsrechtlichen Grenzen Berlins gibt es nur einen Landesverband.
 (4):: Bezirks- und Ortsverbände sollen bei Gründung mindestens 5 Mitglieder umfassen. Der Vorstand eines Bezirks- oder Ortsverbandes besteht aus mindestens 3 Personen, wobei mindestens je ein Vorstandsmitglied vorsitzend und eins das Amt als Schatzmeisterin oder Schatzmeister innehaben muss.
 (5):: Die Bildung von Gebietsuntergliederungen in Bezirks- und Ortsverbände erfolgt deckungsgleich mit den politischen Grenzen der 12 amtlichen Berliner Bezirke oder deren 96 amtlichen Ortsteile.
-(6):: Alle Gebietsuntergliederungen sind an die https://www.radikalklima.de/satzung[Satzung], die Wahlordnung, die https://www.radikalklima.de/finanzordnung[Finanzordnung] und die Schiedsgerichtsordnung des Landesverbandes gebunden.
+(6):: Alle Gebietsuntergliederungen sind an die https://www.klimaliste-berlin.de/satzungsdokumente/satzung[Satzung], die https://www.klimaliste-berlin.de/satzungsdokumente/wahlordnung[Wahlordnung], die https://www.klimaliste-berlin.de/satzungsdokumente/finanzordnung[Finanzordnung] und die https://www.klimaliste-berlin.de/satzungsdokumente/schiedsgerichtsordnung[Schiedsgerichtsordnung] des Landesverbandes gebunden.
 (7):: Die Gebietsuntergliederungen regeln ihre Angelegenheiten durch eigene Satzung, soweit die Satzung der jeweils nächst höheren Gebietsgliederung hierüber keine Vorschriften enthält. Die Satzungen der Gebietsuntergliederungen können ergänzende Regelungen enthalten, soweit diese der Landessatzung nicht widersprechen. Im Konfliktfall gilt die Landessatzung.
 (8):: Organe der Landespartei sind der Parteivorstand und der Landesparteitag.
 
 == § 8 Der Parteivorstand
 
-(1):: Der Parteivorstand wird als „Herzteam“ bezeichnet. Er besteht aus Mitgliedern von radikal:klima und vertritt die Landespartei nach innen und außen gemäß § 26 BGB. Der Parteivorstand wird durch mindestens zwei Mitglieder, darunter eine der vorsitzenden Personen oder die amtstragende Person als Schatzmeisterin oder Schatzmeister, gemeinsam gerichtlich und außergerichtlich vertreten. Die Geschäftsführungsbefugnis kann vom Parteivorstand delegiert werden.
+(1):: Der Parteivorstand wird als „Herzteam“ bezeichnet. Er besteht aus Mitgliedern der Klimaliste Berlin und vertritt die Landespartei nach innen und außen gemäß § 26 BGB. Der Parteivorstand wird durch mindestens zwei Mitglieder, darunter eine der vorsitzenden Personen oder die amtstragende Person als Schatzmeisterin oder Schatzmeister, gemeinsam gerichtlich und außergerichtlich vertreten. Die Geschäftsführungsbefugnis kann vom Parteivorstand delegiert werden.
 (2):: Der Vorstand besteht aus mindestens ebenso vielen Frauen* wie Männern*. Menschen, die sich abseits der binären Konstruktionen verorten, können ungeachtet dessen für jede Position kandidieren.
 (3):: Der Parteivorstand leitet den Landesverband, führt dessen Geschäfte nach Gesetz und Satzung und auf der Grundlage der Beschlüsse der Parteiorgane.
 (4):: Dem Parteivorstand gehören sechs Mitglieder an:
@@ -118,10 +119,10 @@ Parteischädigend verhält sich insbesondere, wer
 (7):: Mitglieder können ihr Stimmrecht mittels einer Vollmacht vorübergehend auf eine andere Person übertragen, sofern sie nicht selbst für den Parteitag akkreditiert sind. Diese Person muss Mitglied der Partei sein. Jedes stimmberechtigte Mitglied kann maximal zwei weitere Mitglieder vertreten. Eine Vollmacht kann nur unmittelbar ausgestellt werden, Untervollmachten sind nicht zulässig. Zum Parteitag muss die Vollmacht schriftlich – mit einer Kopie des Personalausweises der vollmachtgebenden Person – für den Erhalt der Stimmkarten vorgezeigt werden. Mitglieder, die aufgrund von Übertragung mehrere Stimmrechte vertreten, müssen diese nicht gleichlautend abgeben.
 (8):: Ist der Parteivorstand handlungsunfähig, kann ein außerordentlicher Landesparteitag einberufen werden. Dies geschieht schriftlich mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes. Er dient ausschließlich der Wahl eines neuen Vorstandes.
 (9):: Aufgaben des Landesparteitages:
-(a)::: Der Landesparteitag beschließt über die Grundlinien der Politik von radikal:klima, über das Landesprogramm und die Ausrichtung der Landespartei.
+(a)::: Der Landesparteitag beschließt über die Grundlinien der Politik der Klimaliste Berlin, über das Landesprogramm und die Ausrichtung der Landespartei.
 (b)::: Er beschließt über die Satzung, die Finanzordnung und die Schiedsgerichtsordnung.
-(c)::: Er beschließt über die Auflösung sowie die Verschmelzung mit anderen Parteien nach § 11.
-(d)::: Er wählt die Mitglieder des Parteivorstandes gemäß § 7 Absatz 5.
+(c)::: Er beschließt über die Auflösung sowie die Verschmelzung mit anderen Parteien nach § 12.
+(d)::: Er wählt die Mitglieder des Parteivorstandes gemäß § 8.
 (e)::: Der Landesparteitag nimmt den Tätigkeitsbericht des Parteivorstandes entgegen und entscheidet daraufhin über seine Entlastung.
 (f)::: Er entscheidet entsprechend Absatz 13, ob die Teilnahme der Landespartei an der Wahl zum Deutschen Bundestag, zum Abgeordnetenhaus von Berlin und/oder den einzelnen Bezirksverordnetenversammlungen erfolgt.
 (10):: Über den Parteitag, die Beschlüsse und Wahlen wird ein Ergebnisprotokoll gefertigt, das von einem Mitglied der Protokollführung, einem Mitglied der Versammlungsleitung und einer der fünf vorsitzenden Personen unterschrieben wird. Wurden die Vorsitzenden neu gewählt, so unterschreibt eine Person der neu gewählten Vorsitzenden. Das Wahlprotokoll wird dem Protokoll beigefügt.
@@ -163,7 +164,7 @@ Auf Landes- und Gebietsuntergliederungsebene sind Schiedsgerichte einzurichten. 
 
 == § 14 Finanzordnung
 
-Die Landespartei sowie alle weiteren Gliederungen von radikal:klima sind bezüglich der Aufbringung, Verwendung und Verwaltung von finanziellen Mitteln an die Finanzordnung von radikal:klima gebunden. Die Finanzordnung ist Bestandteil der Satzung und hat Satzungsrang.
+Die Landespartei sowie alle weiteren Gliederungen der Klimaliste Berlin sind bezüglich der Aufbringung, Verwendung und Verwaltung von finanziellen Mitteln an die Finanzordnung der Klimaliste Berlin gebunden. Die Finanzordnung ist Bestandteil der Satzung und hat Satzungsrang.
 
 == § 15 Änderung der Satzung
 
@@ -181,4 +182,4 @@ Die Landespartei sowie alle weiteren Gliederungen von radikal:klima sind bezügl
 
 == Anhang
 
-(1):: https://www.radikalklima.de/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie]
+(1):: https://www.klimaliste-berlin.de/satzungsdokumente/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie]
