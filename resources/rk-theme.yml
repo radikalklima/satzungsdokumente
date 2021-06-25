@@ -1,0 +1,38 @@
+extends: default
+font:
+  catalog:
+    IBMPlexSans:
+      normal: IBMPlexSans-Regular.ttf
+      italic: IBMPlexSans-Italic.ttf
+      bold: IBMPlexSans-Bold.ttf
+      bold_italic: IBMPlexSans-BoldItalic.ttf
+    Inter:
+      normal: Inter-VariableFont_slnt,wght.ttf
+      italic: Inter-VariableFont_slnt,wght.ttf
+      bold: Inter-VariableFont_slnt,wght.ttf
+      bold_italic: Inter-VariableFont_slnt,wght.ttf
+footer:
+  height: 2cm
+  recto:
+    left:
+      content:
+    center:
+      content: 'Seite {page-number}/{page-count}'
+    right:
+      content:
+  verso:
+    left:
+      content:
+    center:
+      content: 'Seite {page-number}/{page-count}'
+    right:
+      content:
+
+heading:
+  font-family: Inter
+  font-color: #0b7e79
+base:
+  font-family: IBMPlexSans
+  font-color: #000000
+page:
+  margin: [2cm, 2cm, 2cm, 2cm]
