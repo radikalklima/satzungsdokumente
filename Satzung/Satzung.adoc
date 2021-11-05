@@ -2,7 +2,8 @@
 
 Beschlossen am 9. August 2020 +
 Geändert am 23. Januar 2021 +
-Geändert am 27. März 2021
+Geändert am 27. März 2021 +
+Geändert am 23. Oktober 2021
 
 == Präambel
 
@@ -19,7 +20,7 @@ Unsere Vision ist ein klimapositives und sozial-gerechtes Berlin, das unsere st�
 
 === Voraussetzungen für die Mitgliedschaft
 
-(1):: Mitglied der Klimaliste Berlin können alle deutschen Staatsangehörigen und jede Person mit Wohnsitz oder Geburtsort in Deutschland werden. Es gibt kein Mindesteintrittsalter für die Mitgliedschaft. Mitglieder der Klimaliste Berlin müssen die Satzung und das Programm der Partei sowie die Gesetze und freiheitliche demokratische Grundordnung in Deutschland anerkennen. Mitglied der Klimaliste Berlin können nur natürliche Personen sein.
+(1):: Mitglied der Klimaliste Berlin können alle deutschen Staatsangehörigen und jede Person mit Wohnsitz oder Geburtsort in Deutschland werden. Es gibt kein Mindesteintrittsalter für die Mitgliedschaft. Mitglieder der Klimaliste Berlin müssen die Satzung und das Programm der Partei sowie die Gesetze und freiheitliche demokratische Grundordnung in Deutschland anerkennen. Mit Eintritt in die Partei hat das Mitglied den https://www.klimaliste-berlin.de/satzungsdokumente/verhaltenskodex[Verhaltenskodex] zu akzeptieren, dieser ist Teil der Satzungsdokumente. Mitglied der Klimaliste Berlin können nur natürliche Personen sein.
 (2):: Es wird ein zentrales Mitgliederverzeichnis durch den Parteivorstand geführt.
 (3):: Personen, die sich um die Mitgliedschaft bei der Klimaliste Berlin bewerben, ist es nicht gestattet Mitglied einer anderen Partei zu sein. Der Vorstand der Klimaliste Berlin kann Ausnahmen von dieser Regel unter Angabe einer klaren Begründung gewähren.
 (4):: Personen, die Mitglied einer Organisation sind, die sich gegen die Grundsätze der Partei, gegen die Menschenrechte oder gegen eine demokratische, pluralistische Gesellschaft richtet oder Ziele verfolgt, die gegen diese Grundsätze verstoßen, können nicht Mitglied bei der Klimaliste Berlin werden. Wenn Mitglieder nach ihrem Eintreten in die Partei einer dieser Organisationen beitreten oder eine bestehende Mitgliedschaft in einer dieser Organisationen nachträglich bekannt wird, ist dies ein zwingender Ausschlussgrund. Es gilt die https://www.klimaliste-berlin.de/satzungsdokumente/unvereinbarkeitsrichtlinie[Unvereinbarkeitsrichtlinie].
@@ -71,6 +72,7 @@ Parteischädigend verhält sich insbesondere, wer
 (f)::: den eigenen Pflichten als Mitglied beharrlich dadurch nicht nachkommt, dass über einen längeren Zeitraum trotz Zahlungsfähigkeit und trotz Mahnung die persönlichen monatlichen Mitgliedsbeiträge oder etwaige weitere, satzungsrechtlich festgelegte monatliche Beiträge als amts- oder mandatstragende Person der Partei nicht entrichtet,
 (g)::: vertrauliche Parteivorgänge veröffentlicht oder Dritten, insbesondere politischen Mitbewerbenden, offenbart,
 (h)::: Vermögen, welches der Partei gehört oder zur Verfügung steht, veruntreut.
+(i)::: erheblich, absichtlich oder wiederholt gegen den https://www.klimaliste-berlin.de/satzungsdokumente/verhaltenskodex[Verhaltenskodex] verstößt.
 (5):: Über den Ausschluss entscheidet auf Antrag des zuständigen Vorstandes das nach der Schiedsgerichtsordnung zuständige Schiedsgericht.
 (6):: Für Ausschlussverfahren gegen Mitglieder des Parteivorstandes der Partei ist das Schiedsgericht zuständig.
 (7):: In dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann der Parteivorstand ein Mitglied von der Ausübung seiner Rechte bis zur rechtskräftigen Entscheidung des Schiedsgerichts ausschließen. Ein solcher Vorstandsbeschluss gilt gleichzeitig als Antrag auf Einleitung eines Ausschlussverfahrens. Das Schiedsgericht hat in jeder Lage des Verfahrens zu prüfen, ob die Maßnahme nach Umfang und Fortdauer noch erforderlich ist. Soll die Maßnahme über die abschließende Entscheidung einer Schiedsgerichtsinstanz von Gebietsuntergliederungen hinaus wirksam bleiben, so ist sie in dieser Entscheidung erneut anzuordnen; sonst tritt sie mit deren Bekanntmachung außer Kraft.
