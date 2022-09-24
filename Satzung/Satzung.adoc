@@ -3,7 +3,8 @@
 Beschlossen am 9. August 2020 +
 Geändert am 23. Januar 2021 +
 Geändert am 27. März 2021 +
-Geändert am 23. Oktober 2021
+Geändert am 23. Oktober 2021 +
+Geändert am 24. September 2022
 
 == Präambel
 
@@ -100,8 +101,8 @@ Parteischädigend verhält sich insbesondere, wer
 (1):: Der Parteivorstand wird als „Herzteam“ bezeichnet. Er besteht aus Mitgliedern der Klimaliste Berlin und vertritt die Landespartei nach innen und außen gemäß § 26 BGB. Der Parteivorstand wird durch mindestens zwei Mitglieder, darunter eine der vorsitzenden Personen oder die amtstragende Person als Schatzmeisterin oder Schatzmeister, gemeinsam gerichtlich und außergerichtlich vertreten. Die Geschäftsführungsbefugnis kann vom Parteivorstand delegiert werden.
 (2):: Der Vorstand besteht aus mindestens ebenso vielen Frauen* wie Männern*. Menschen, die sich abseits der binären Konstruktionen verorten, können ungeachtet dessen für jede Position kandidieren.
 (3):: Der Parteivorstand leitet den Landesverband, führt dessen Geschäfte nach Gesetz und Satzung und auf der Grundlage der Beschlüsse der Parteiorgane.
-(4):: Dem Parteivorstand gehören sechs Mitglieder an:
-* fünf vorsitzende Mitglieder
+(4):: Dem Parteivorstand gehören vier Mitglieder an:
+* drei vorsitzende Mitglieder
 * ein Mitglied im Amt als Schatzmeisterin oder Schatzmeister
 (5):: Die Außendarstellung der Partei erfolgt durch den Parteivorstand und von ihm beauftragte oder benannte Personen.
 (6):: Die Mitglieder des Parteivorstands werden vom Landesparteitag in geheimer Wahl für die Dauer von zwei Jahren gewählt. Die Wiederwahl ist möglich. Alle Mitglieder des Parteivorstands werden auf demselben Landesparteitag gewählt. Ist eine Nachwahl erforderlich, erfolgt diese nur für den Rest der laufenden Amtszeit. Die Mitglieder des Parteivorstandes führen bis zur Neuwahl des Parteivorstandes die Geschäfte kommissarisch weiter.
@@ -109,11 +110,12 @@ Parteischädigend verhält sich insbesondere, wer
 (8):: Die Mitglieder des Parteivorstandes dürfen nicht Regierungsmitglied, Abgeordnete oder Mitarbeitende von Fraktionen sowie Abgeordneten sein. Wenn Amtsinhabende Abgeordnetenmandate erhalten, können sie ihr Amt bis zum nächsten Parteitag ausüben. Dieser Parteitag soll zeitnah stattfinden.
 (9):: Mitglieder der Partei, die in einem beruflichen oder finanziellen Abhängigkeitsverhältnis zur Landespartei stehen, können kein Parteivorstandsamt bekleiden; Regelungen zur finanziellen Entschädigung des Parteivorstandes bleiben davon unberührt.
 (10):: Mitglieder des Parteivorstandes müssen von ihnen ausgeübte unbezahlte Tätigkeiten in Aufsichtsräten, Verbänden und Vereinen gegenüber dem Landesparteitag offenlegen.
+(11):: Die Mitglieder des Vorstands haben Anrecht auf den Erhalt der vollen Ehrenamtspauschale. Sie können nach individueller Entscheidung auf diesen Erhalt ganz oder teilweise verzichten.
 
 == § 9 Der Landesparteitag
 
 (1):: Der Landesparteitag ist die Mitgliederversammlung der Landespartei.
-(2):: Der Landesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt durch Beschluss des Parteivorstandes oder wenn ein Zehntel der Parteimitglieder es beantragen. Der Parteivorstand lädt jedes Mitglied in Textform (vorrangig per E-Mail, nachrangig per Brief) mindestens 4 Wochen vorher ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
+(2):: Der Landesparteitag tagt mindestens einmal alle zwei Jahre. Die Einberufung erfolgt durch Beschluss des Parteivorstandes oder wenn ein Zehntel der Parteimitglieder es beantragen. Der Parteivorstand lädt jedes Mitglied in Textform (vorrangig per E-Mail, nachrangig per Brief) mindestens 4 Wochen vorher ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 (3):: Ist das Landesgebiet zum Zeitpunkt der Einladung zum Landesparteitag nicht von Gebietsuntergliederungen flächendeckend abgedeckt, tagt der Landesparteitag als Mitgliederversammlung, in der alle Mitglieder stimmberechtigt sind.
 (4):: Für den Fall, dass das Landesgebiet zum Zeitpunkt der Einladung zum Landesparteitag von Gebietsuntergliederungen flächendeckend abgedeckt ist, tagt der Landesparteitag als Delegiertenversammlung. Zur Ermittlung der Delegiertenzahl pro Gebietsuntergliederung gilt folgendes Verfahren: Die Zahl der Mitglieder der Gebietsuntergliederung wird mit 50 multipliziert. Das Ergebnis wird durch die Summe der Mitglieder der Landespartei dividiert, wobei das Ergebnis zu einer vollen Zahl gerundet wird. Diese Zahl ist die jeweilige Delegiertenzahl, die aber in jedem Fall mindestens 1 betragen muss (Grundmandat).
 (5):: Maßgeblich für die Berechnung der Delegiertenzahlen sind die dem Bundestagspräsidium im letzten Jahresrechenschaftsbericht vorgelegten, geprüften Mitgliederzahlen.
